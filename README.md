@@ -1,7 +1,7 @@
 # Quicksort-Benchmark
 Exploring ways to improve the performance of quicksort
 
-See quicksort_observations.md for report
+- See quicksort_observations.md for report
 
 ## About the Project
 This was part of an assignment I completed for 31251 Data Structures and Algorithms at UTS. The aim was to explore ways of improving the performance of a basic quicksort algorithm.
